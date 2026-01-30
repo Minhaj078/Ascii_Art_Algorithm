@@ -83,7 +83,7 @@ The ASCII art generation follows these structured steps:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+git clone https://github.com/Minhaj078/Ascii_Art_Algorithm.git
 cd REPOSITORY_NAME
 ```
 ### 2️⃣ Install Dependencies
